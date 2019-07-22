@@ -2,4 +2,4 @@
 deneme1
 test
 
-!(kamp)[ibu.png]
+![kamp](ibu.png)
